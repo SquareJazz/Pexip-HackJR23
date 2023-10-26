@@ -27,4 +27,7 @@ acquire new skills while enjoying the journey.
 
 # The Prize 
 The prize for the winning team is Amazon Vouchers a Willingood Puzzle Magic Cube each and some candy kittens.
-<iframe src="https://giphy.com/embed/26u49YjOazMMAwTGU" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/amazon-ad-26u49YjOazMMAwTGU">via GIPHY</a></p>
+
+
+
+<iframe src="https://giphy.com/embed/26u49YjOazMMAwTGU" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen>
