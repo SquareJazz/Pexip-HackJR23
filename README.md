@@ -26,7 +26,7 @@ We are seeking out-of-the-box thinking and teams eager to step out of their comf
 acquire new skills while enjoying the journey.
 
 # The Prize 
-The prize for the winning team is Amazon Vouchers a Willingood Puzzle Magic Cube each and some candy kittens.
+The prize for the winning team is Amazon Vouchers, a Willingood Puzzle Magic Cube each and some Candy Kittens.
 
 <img src='https://media.giphy.com/media/26u49YjOazMMAwTGU/giphy-downsized-large.gif' height="auto" width="auto" />
 
