@@ -1,5 +1,5 @@
 # Pexip-HackJR23
-Pexip - HackManchester Junior 2023 Challenge
+
 
 # "Transforming the Video Experience”
 In today's digital era, video has become an integral part of our lives. We use it for various
