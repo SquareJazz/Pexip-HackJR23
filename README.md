@@ -1,7 +1,7 @@
 # Pexip-HackJR23
 Pexip - HackManchester Junior 2023 Challenge
 
-"Transforming the Video Experience”
+##"Transforming the Video Experience”
 In today's digital era, video has become an integral part of our lives. We use it for various
 purposes, from entertainment to education. However, the video experience can often feel dull and
 uninspiring. Your mission in this hackathon is to infuse creativity, interactivity, and enjoyment into
@@ -25,4 +25,5 @@ Some Ideas:
 We are seeking out-of-the-box thinking and teams eager to step out of their comfort zones and
 acquire new skills while enjoying the journey.
 
+##The Prize 
 The prize for the winning team is Amazon Vouchers a Willingood Puzzle Magic Cube each and some candy kittens.
