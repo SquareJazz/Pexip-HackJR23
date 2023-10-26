@@ -1,5 +1,5 @@
 # Pexip-HackJR23
-<img src='Crennshot 2023-10-24 150454.png' height="auto" width="auto" />
+<img src='Screenshot 2023-10-24 150454.png' height="auto" width="auto" />
 
 # "Transforming the Video Experience”
 In today's digital era, video has become an integral part of our lives. We use it for various
